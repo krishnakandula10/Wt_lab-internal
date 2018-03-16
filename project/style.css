@@ -1,0 +1,41 @@
+.nav{
+	padding:0px;
+	margin:0px;
+	background-color:grey;
+	text-align:center;
+}
+body{
+	padding:0px;
+	margin:0px;
+	background-color:#cccccc;;
+}
+.h{
+	text-align:center;
+}
+.hlogin{
+	margin-top: 10em;
+    margin-left: 50em;
+    border:1px solid #73d873;
+    padding-right:400px;
+    padding: 1em 2em;
+    border-radius:1em;
+    line-height:3em;
+    width:20em;
+    text-align:center;
+    background-color:rgba(0,0,0,0.3);
+}
+.hsignup{
+	 color:white;
+    margin-top: 5%; 
+    margin-left:50%;
+    border:1px solid #73d873;
+    padding: 1em 2em;
+    border-radius:1em;
+    line-height:3em;
+    width:20em;
+    text-align:right;
+    clear:both;
+    float:left;
+    padding-right:7em;
+    background-color:rgba(0,0,0,0.3);
+}
